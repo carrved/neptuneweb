@@ -5,7 +5,8 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background: radial-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://wallpaper.dog/large/20519092.jpg');
+  background: radial-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://github.com/makccr/wallpapers/blob/master/wallpapers/win-mac/windows-xp-bliss-4k-lu.jpg?raw=true');
+  background-size: cover;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;

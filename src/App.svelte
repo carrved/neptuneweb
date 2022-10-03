@@ -41,10 +41,10 @@
       color: #0099ff;
     }
     50% {
-      color: #00ff00;
+      color: #6666ff;
     }
     75% {
-      color: #ff3399;
+      color: #0099ff;
     }
     100% {
       color: #6666ff;
